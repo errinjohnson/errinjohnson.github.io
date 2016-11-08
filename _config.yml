@@ -4,7 +4,8 @@
 
 # The name of your blog
 name: Portfolio Blog
-
+# Home Portfolio AlchemyMomentum
+alchemyHome: http://alchemymomentum.com
 # A short bio or description
 description:
  Blog measuring my skills and progress in my Software Development.
