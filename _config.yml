@@ -27,7 +27,7 @@ links:
   github: errinjohnson
   #twitter: your-username
 
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /:title
 
