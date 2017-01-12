@@ -5,7 +5,7 @@ title: Bootstrap Static Websites | Sponsors
 
 [Software Guild Contact for Tuition Sponsorship in Progress](#)
 
-Organize code with templates from [Mustache.js](https://mustache.github.io/)
+Organize code with templates from [HandleBars.js](http://handlebarsjs.com/)
 
 I am looking to earn the remaining $2,000 of the Software Guild tution in the form
 of sponsorship and internship web development work.  I hope to build confidence, earn money
