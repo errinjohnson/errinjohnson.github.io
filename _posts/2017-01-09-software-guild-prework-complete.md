@@ -3,6 +3,10 @@ layout: post
 title: Software Prework Complete
 ---
 
+update: 2-24-2017
+
+Software Guild, no longer on my list of places to attend.  Going in a differenct direction for now.
+
 I finished the Software Guild pre-work which consisted of basic HTML, CSS and Javascript.  I did well!
 Apparently, there is an audition they added to the mix, or maybe I missed it and thats to see if the pre-work
 you completed online is inline with you doing the work, my assumptions anyway.  I have that audition tomorrow
