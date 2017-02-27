@@ -16,4 +16,4 @@ I will be attending [Dery Hack Live](http://derbyhacks.io/live.html).
 
 ![Workshop](../images/derbyHacks.jpg)
 
-![photos](https://photos.google.com/share/AF1QipNsF5UjfgII4YsK4YBDqZ7uIZ9ae7wMotQxlxbWVlQ1wSoSCTxQi55CwjMrcVugmA?key=LUl4YVFMOU5aZ1RKZlR4LVJYWF9CNzhXZ0NOYkp3)
+[photos](https://photos.google.com/share/AF1QipNsF5UjfgII4YsK4YBDqZ7uIZ9ae7wMotQxlxbWVlQ1wSoSCTxQi55CwjMrcVugmA?key=LUl4YVFMOU5aZ1RKZlR4LVJYWF9CNzhXZ0NOYkp3)
