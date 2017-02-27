@@ -6,7 +6,7 @@ Update: 2/27/17
 
 ![Work Shop](/images/tiny-errinDerbyHacks.jpg)
 
-[Dery Hack Live](http://derbyhacks.io/live.html), won the "Home is Where the Hack is" catergory! I was happy to be a part of the team, going forward I wish the team the best in deploying finally version; I probably wont be on team with future deployments, but its not necessarily something you need or have to do.  It was a great event.  I will do it again.
+[LouTrail](https://devpost.com/software/loutrail), won the "Home is Where the Hack is" catergory! I was happy to be a part of the team, going forward I wish the team the best in deploying finally version; I probably wont be on team with future deployments, but its not necessarily something you need or have to do.  It was a great event.  I will do it again.
 
 ![WorkShop - ](/images/amyShayDerbyHacks.jpg)
 
