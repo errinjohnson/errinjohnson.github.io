@@ -34,6 +34,9 @@ Preparing for next wednesday at 1pm:  I am working on hand outs, reference or ch
 
 I am thinking about bringing my small tv with fire stick for the 2nd half of class - and possible a quick over view on email. 
 
+--End  
+Errin E Johnson
+
 
 
 
