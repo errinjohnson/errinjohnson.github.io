@@ -4,8 +4,8 @@ title: Streaming Video - Day 1 Class
 ---
 # Streaming Video Class - Day 1
 
-Day 1 of the Streaming Video course, was ok, considering this was a new avenue for me to go down.  
-My focus was on Email - setting up username, send, reply and recovery phone number.  This I felt was
+Day 1 of the Streaming Video course, was ok, considering this was a new avenue for me.  
+My focus ,on Day 1, was on Email - setting up username, send, reply and recovery phone number.  This I felt was
 important to know because streaming video depends on emails for a username.  
 
 I have so far decicded on 4 segments for the class, as follows: 
@@ -16,19 +16,21 @@ I have so far decicded on 4 segments for the class, as follows:
 4. Informed Decisions - Comparing channels, prices based on consumer needs. 
 
 I spent roughly 30-45 minutes on email setup and password recovery, watching short videos and taking questions.
-I spent the about another 30-45 minutes hands-on, workshop with students to create their own accounts, one on one help. 
-I felt 4 of the 6 students were very engaged, and benefted greatly with the one on one help.  
+I spent another 30-45 minutes hands-on, workshop with students to create their own accounts, one on one help. 
+I felt 4 of the 6 students were very engaged, and benefted greatly with the one on one help.  I had students bring their own device, if they had one, most had a tablet, and 2 of them had a phone that didnt have a good connection to the web to create their google account(s).
 
-I feel that spending the first part of class with concepts of related subject and the 2nd half hands on project.  
-This are short projects, and I encourage students to watch video out of class and email me any questions they may have.
-I feel emailing to contact me will also give them real world practice. Although to some, email may seem like a simple task
-but having to navigate to create, reply and more importantly, to reset password when they can not remember it, or 
-forgot where they put the info.
+I plan on setting of a mobile hot spot along with Blanton's wifi in the basement.  I hope this will improve internet connection for some.  
 
-Preparing for next wednesday at 1pm - I am working on hand outs, reference or cheat sheet to work with when they are at home, 
-and to jot down any questions they have and or email me.  
+I also, have the commputer from Metro Gov. Digital Inclusion Department - I am going to let those with just phones, use while in class. 
 
-Thinking about bring my small tv with fire stick, so we can practice on 2nd half of class - and possible an quick over view on email. 
+I feel that spending the first part of class with concepts of the related subject(email in this case) and the 2nd half hands with a hands on project.  
+
+These are short projects, and I encourage students to watch video(s) out of class and email me any questions they may have.
+I feel emailing to contact me will also give them real world practice.
+
+Preparing for next wednesday at 1pm:  I am working on hand outs, reference or cheat sheet for students to work with when they are at home, and to jot down any questions they have and or email me.  
+
+I am thinking about bringing my small tv with fire stick, so the class can practice with in the 2nd half of class - and possible a quick over view on email. 
 
 
 
