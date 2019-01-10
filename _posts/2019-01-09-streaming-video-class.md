@@ -1,8 +1,8 @@
 ---
 layout: default 
-title: Streaming Video - Day 1 Class
+title: Streaming Video - Email
 ---
-# Streaming Video Class - Day 1
+## Streaming Video Class - Day 1
 
 Day 1 of the Streaming Video course, was ok, considering this was a new avenue for me.  
 My focus ,on Day 1, was on Email - setting up username, send, reply and recovery phone number.  This I felt was
