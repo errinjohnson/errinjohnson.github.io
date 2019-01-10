@@ -21,7 +21,7 @@ I felt students were very engaged, most of the time, and benefited greatly with 
 
 I had  students bring their own device, if they had one, most had a tablet, and 2 of them had a phone that didnt have a good connection to the web to create their google account(s).
 
-I plan on setting of a mobile hot spot along with Blanton's wifi in the basement.  I hope this will improve internet connection for some.  
+I plan on setting up a mobile hot spot along with Blanton's wifi in the basement.  I hope this will improve internet connection for some.  
 
 I also, have the commputer from Metro Gov. Digital Inclusion Department - I am going to let those with just phones, use while in class. 
 
