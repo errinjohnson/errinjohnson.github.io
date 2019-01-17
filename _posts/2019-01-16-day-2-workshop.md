@@ -13,11 +13,9 @@ cohesion with the material and the hands on workshop(s).
 
 We started with questions from the last class and the homework challenge.  
   Concerns:
-  
-    --* typing in website address, mainly syntax errors. I explained to watch for error messages and to check
-    for spelling or syntax first if trouble with opening up website link. Practice typing in web addresses.
-    
-    --* Email Challenge was completed and thru out the week they all use it to communicate with me as well. 
+  #### Typing in website address, mainly syntax errors. I explained to watch for error messages and to check
+    ..* for spelling or syntax first if trouble with opening up website link. Practice typing in web addresses.
+  #### Email Challenge was completed and thru out the week they all use it to communicate with me as well. 
 
 1. Each student brought there own device, ipad(s) and android tablet.  We started searching for a speed test app, downloading it and then
    testing wifi speed of the conference room. 
