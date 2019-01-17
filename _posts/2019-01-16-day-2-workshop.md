@@ -11,12 +11,12 @@ Today, the workshop started with hands on. The workshop was the main focus of th
 added as we worked; understanding common technology terms will give a path forward in communicating coherence and
 cohesion with the material and the hands on workshop(s).
 
-We started with questions from the last class and the homework challenge.  
-  Issues:
+### We started with questions from the last class and the homework challenge.  
+  #### Issues:
   1. Typing in website address, mainly syntax errors. I explained to watch for error messages and to check
   for spelling or syntax first if trouble with opening up website link. Practice typing in web addresses.
   2. Email Challenge was completed and thru out the week they all use it to communicate with me as well. 
-Today's activity included: 
+### Today's activity included: 
 1. Each student brought there own device, ipad(s) and android tablet.  We started searching for a speed test app, downloading it and then
    testing wifi speed of the conference room. 
 2. Searched and downloaded Kroger app, created an account, and registered kroger cards.  
