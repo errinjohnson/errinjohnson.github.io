@@ -12,7 +12,7 @@ added as we worked; understanding common technology terms will give a path forwa
 cohesion with the material and the hands on workshop(s).
 
 ### We started with questions from the last class and the homework challenge.  
-  #### Issues:
+#### Issues:
   1. Typing in website address, mainly syntax errors. I explained to watch for error messages and to check
   for spelling or syntax first if trouble with opening up website link. Practice typing in web addresses.
   2. Email Challenge was completed and thru out the week they all use it to communicate with me as well. 
@@ -22,7 +22,7 @@ cohesion with the material and the hands on workshop(s).
 2. Searched and downloaded Kroger app, created an account, and registered kroger cards.  
 3. Practiced searching and browsing on the web; searched each others names and what sites they were on and why.
 
-This weeks Challenge is to test their wifi speed at their honme; test 3 download and upload speeds and email me the results. 
+This weeks Challenge is to test their wifi speed at their home; test 3 download and upload speeds and email me the results. 
 
 
 
