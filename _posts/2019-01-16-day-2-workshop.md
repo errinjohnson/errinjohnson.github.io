@@ -3,7 +3,9 @@ layout: default
 title: Streaming Video - Speedtest
 ---
 ## Streaming Video Class - Week 2
-![Conference Room - Blanton House - IoT Workshop](/images/kenny-linda-mae-in-our-workshop.jpg)
+#### Conference Room - Blanton House - IoT Workshop
+<img src="/images/kenny-linda-mae-in-our-workshop.jpg" width="400" height="400">
+
 
 ## Productive Workshop Today!
 
