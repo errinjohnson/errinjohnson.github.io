@@ -14,7 +14,7 @@ Workshop platform - no videos today.
 #### Issues:
   1. Typing in website address, mainly syntax errors. I explained to watch for error messages and to check
   for spelling or syntax first if trouble with opening up website link. Practice typing in web addresses.
-  2. Email Challenge was completed and thru out the week they all use it to communicate with me as well. 
+  2. Email challenge was completed and thru out the week they all used email communicate with me as well. 
 ### Today's activity included: 
 1. Each student brought there own device, ipad(s) and android tablet.  We started searching for a speed test app, downloading it and then
    testing wifi speed of the conference room. 
