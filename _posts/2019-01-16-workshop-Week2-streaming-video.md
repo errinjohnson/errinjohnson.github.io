@@ -1,17 +1,14 @@
 ---
-layout: default 
 title: Streaming Video Class - Week 2
 ---
 
 #### Conference Room - Blanton House - IoT Workshop
-<img src="/images/kenny-linda-mae-in-our-workshop.jpg" width="400" height="400">
+<img src="/images/kenny-linda-mae-in-our-workshop.jpg" width="auto" height="400">
 
 
 ## Productive Workshop Today!
 
-Today, the workshop started with hands on. The workshop was the main focus of this class and concepts 
-added as we worked; understanding common technology terms will give a path forward in communicating coherence and
-cohesion with the material and the hands on workshop(s).
+Workshop platform - no videos today.
 
 ### We started with questions from the last class and the homework challenge.  
 #### Issues:
