@@ -6,7 +6,7 @@ title: Streaming Video Class - Week 3
 <img src="/images/kenny-linda-mae-karen-mary.jpg" width="600" height="400">
 
 ## This day was a continuation on the streaming video workshop; the main focus was on the physical topology.
-## Smart tv, FIRE STICK, and OTA(Over The Air - Antenna).
+## SMART TV, FIRE STICK, and OTA(Over The Air - Antenna).
 
 Activites:
 1. Participants practiced setting up the fire stick, including registration of device.
@@ -22,7 +22,7 @@ Home Work:
 - Mae: Email and attachements - would like to send pictures to family and friends.
 - Mary: Understanding her Smart Tv and OTA. 
   - Home visit: 
-  I went to her apartment to see her devices.  She had a Smart Tv with ethernet, OTA and spectrum internet.
+  I went to Mary's apartment to see her devices.  She had a Smart TV with ethernet, OTA and spectrum internet.
   Mary didnt realize that her OTA was not connected, didnt know how to set up smart tv to the internet.  I tested her internet
   and the wifi speed was average of 3.5 mbs. Mary previous had a subscritption to Spectrum to receive local channels because her 
   antenna was not broadcasting them, but the cost was not substainable.  Her wifi signal was not strong enough for streaming 
