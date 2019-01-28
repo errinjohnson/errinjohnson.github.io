@@ -1,11 +1,12 @@
+---
 title: Streaming Video Class - Week 3
 ---
 
 #### Errin's Apartment - Blanton House -apt 1410
 <img src="/images/kenny-linda-mae-karen-mary.jpg" width="600" height="400">
 
-## This day was a continuation on the streaming video workshop. The main focus was on the phyiscal topology;
-## smart tv, fire stick, and OTA(Over The Air - Antenna).
+## This day was a continuation on the streaming video workshop; the main focus was on the physical topology.
+## Smart tv, FIRE STICK, and OTA(Over The Air - Antenna).
 
 Activites:
 1. Participants practiced setting up the fire stick, including registration of device.
