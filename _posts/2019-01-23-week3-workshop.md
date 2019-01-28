@@ -11,8 +11,8 @@ title: Streaming Video Class - Week 3
 Activites:
 1. Participants practiced setting up the fire stick, including registration of device.
 2. Participants practiced setting up OTA.
-3. Participants practiced devices to understand the differnces of internet tv(smart tv) and OTA.
-4. We started the workshop with an overview of email and searching the web.
+3. Participants practiced navigating devices to understand the differnces of internet tv(smart tv) and streaming video and OTA.
+4. Workshop started with an overview of email and searching the web.
 
 Home Work:
 
@@ -20,7 +20,7 @@ Home Work:
 - Kenny:  Informed decisions on a streaming device, interested in purchasing one.
 - Linda: Overall exploration of streaming video. 
 - Mae: Email and attachements - would like to send pictures to family and friends.
-- Mary: Understanding her Smart Tv and OTA. 
+- Mary: Understanding her Smart TV and OTA. 
   - Home visit: 
   I went to Mary's apartment to see her devices.  She had a Smart TV with ethernet, OTA and spectrum internet.
   Mary didnt realize that her OTA was not connected, didnt know how to set up smart tv to the internet.  I tested her internet
