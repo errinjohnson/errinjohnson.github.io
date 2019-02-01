@@ -13,7 +13,7 @@ and in my research, Amazon Prime has a lot of their own real estate as where ROK
 they were more of a competitve market.  
 
 The workshop continued with the setup of existing Antenna from one student KP that wrote down instructions from previous workshop
-to scan channels.  There was a misunderstanding when I stated "Menu" and not "Manual" which I may of done.  This encouraged me 
+to scan channels.  There was a misunderstanding when I stated "Menu" and not "Manual" which I may of done :).  This encouraged me 
 to print out check list and instructions to better assist the students.  Eventually, the website will be a good source, but that is
 still a work in progress on to capture the correct audience.  It is changing as I create it.  
 
