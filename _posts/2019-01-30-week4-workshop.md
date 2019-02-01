@@ -15,7 +15,7 @@ they were more of a competitve market.
 The workshop continued with the setup of existing Antenna from one student KP that wrote down instructions from previous workshop
 to scan channels.  There was a misunderstanding when I stated "Menu" and not "Manual" which I may of done :).  This encouraged me 
 to print out check list and instructions to better assist the students.  Eventually, the website will be a good source, but that is
-still a work in progress on to capture the correct audience.  It is changing as I create it.  
+still a work in progress to capture the correct audience.  It is changing as I create it.  
 
 This first class - workshop is the starting point of a much bigger project.  I am using this as a foundation to set up activites best
 suited for the community based on users needs.  
