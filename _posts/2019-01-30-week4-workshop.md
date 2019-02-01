@@ -8,8 +8,9 @@ A couple went to local walmart, target etc to check out the devices up close and
 of Fire Stick to choose from.  It can be daunting to research and choose one that best fits your needs.
 
 I ask why they decided on the Fire Stick, there was no special reason.  I suggested ROKU because of the flexiblity and ease of use 
-and that the Fire Stick would be a good choice for those who already had Amazon Prime, and in my research, Amazon Prime has a lot
-of their own real estate as where ROKU had nearyl none and felt they were more of a competitve market.  
+and that the Fire Stick would be a good choice for those who already had Amazon Prime ($119 annual fee), 
+and in my research, Amazon Prime has a lot of their own real estate as where ROKU had nearyl none and felt
+they were more of a competitve market.  
 
 The workshop continued with the setup of existing Antenna from one student KP that wrote down instructions from previous workshop
 to scan channels.  There was a misunderstanding when I stated "Menu" and not "Manual" which I may of done.  This encouraged me 
