@@ -2,7 +2,7 @@
 title: Streaming Video Class - Week 3
 ---
 
-#### Errin's Apartment - Blanton House -apt 1410
+#### Errin's Apartment - Blanton House
 <img src="/images/kenny-linda-mae-karen-mary.jpg" width="600" height="400">
 
 ### This day was a continuation on the streaming video workshop; the main focus was on the physical topology.
